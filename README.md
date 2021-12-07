@@ -6,3 +6,5 @@ This was my first project ever using the Unity game engine. I implemented the fo
 - Audio cues
 - Variable, resettable times
 - Recording video on Oculus
+
+TODO: add video footage
