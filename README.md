@@ -1,8 +1,5 @@
 # VR-Meditation
 
-My app shows the user a VR-compatible menu system that allows them to set a timer, pause/change the timer, choose between virtual environments, and select a background noise. I created the app inside the Unity game engine, which lets me load the app on my own headset.
-
-
 ### Description
 
 You can see a full demo on [YouTube](https://youtu.be/wIvLSiQN_yY).
